@@ -10,7 +10,7 @@ export default function Footer() {
                     <img src="/assets/mail_icon.png" alt="" className="w-5 dark:hidden" />
                     <img src="/assets/mail_icon_dark.png" alt="" className="w-5 hidden dark:block" />
 
-                    <a href="mailto:contact@prebuiltui.com">rbverma2119@gmail.com</a>
+                    <a href="mailto:rbverma2119@gmail.com">rbverma2119@gmail.com</a>
                 </div>
             </div>
             <div className="text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-3">

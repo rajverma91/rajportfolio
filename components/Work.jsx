@@ -39,7 +39,7 @@ export default function Work() {
         {
             name: 'UI/UX designing',
             icon: '/assets/blesevent.png',
-            description: 'AI Design',
+            description: 'Fast Conversion Website for Security Company (WordPress)',
             link: 'https://blisevents.ca/',
         }
     ];
